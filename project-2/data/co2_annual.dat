@@ -1,5 +1,4 @@
-# Source: NOAA Global Monitoring Laboratory, Mauna Loa Observatory, annual mean CO2 mole fraction (ppm).
-# https://gml.noaa.gov/ccgg/trends/mlo.html (accessed 2026-07-29). cite{noaa_co2_mlo}
+
 Year	CO2_ppm
 1959	315.98
 1960	316.91
