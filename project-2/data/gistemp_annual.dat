@@ -1,6 +1,4 @@
-# Source: NASA GISS Surface Temperature Analysis (GISTEMP v4), global annual mean (J-D column),
-# anomaly in degrees C relative to the 1951-1980 baseline.
-# https://data.giss.nasa.gov/gistemp/ (accessed 2026-07-29). cite{gistemp2024}
+
 Year	Anomaly_C
 1880	-0.18
 1881	-0.09
